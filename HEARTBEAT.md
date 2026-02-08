@@ -6,6 +6,7 @@ Klaus ska tänka såhär vid varje heartbeat (~var 30e min):
 - Läs av vilken "TO DO TASK" vi är på just nu
 - Kontextualisera genom att läsa GitHub repo och föregående projekt
 - Förstå var vi är och vad som behövs härnäst
+- **LÄS APPLE NOTES "Klaus Input"** — Adrian kan ha skrivit medan Mac var av
 
 ## 2. Brainstorma
 - Vad behövs för detta projekt?
