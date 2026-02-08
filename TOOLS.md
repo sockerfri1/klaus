@@ -11,14 +11,17 @@ Klaus har ett dedikerat Google-konto för:
 ### Drive-struktur
 
 ```
-KLAUS-LEVERANSER/
-├── DAGLIGA-RAPPORTER/
+KLAUS-LEVERANSER/ (1Ir1gKiWZPmKwYmOOSM176mTTCJsz137d)
+├── DAGLIGA-RAPPORTER/ (117m4JIb-z_ABL4FCoNSgrhOLSGtZ4mIz)
 │   └── [datum]-rapport.md
-├── VECKORAPPORTER/
+├── VECKORAPPORTER/ (1xWNr8a-fEgMdBZLgbHLfecGZUOD7ezgH)
 │   └── vecka-[XX]-rapport.md
-└── RESEARCH/
+└── RESEARCH/ (11cAHTji_z36z8sMs0f4iZj2JrayI-EHK)
     └── [ämne]-research.md
 ```
+
+**Google-konto:** bobclawdbot1@gmail.com
+**Drive-länk:** https://drive.google.com/drive/folders/1Ir1gKiWZPmKwYmOOSM176mTTCJsz137d
 
 Simpelt och organiserat. Inga onödiga mappdjup.
 
